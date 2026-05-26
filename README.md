@@ -11,4 +11,4 @@ Currently working on:
 I care about tools that reduce context waste, improve retrieval quality, and make smaller models more useful without adding a ton of overhead.
 
 **Want to test, collaborate, or suggest something?**  
-[Email me](mailto:hello.marcbuilds@gmail.com) · [Bluesky](https://bsky.app/profile/marcbuilds.bsky.social) · [Medium](https://medium.com/@marcbuilds)
+[Email me](mailto:hello.marcbuilds@gmail.com) · [X](https://x.com/marcbuilds01) · [Medium](https://medium.com/@marcbuilds)
