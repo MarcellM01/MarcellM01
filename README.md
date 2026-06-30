@@ -5,6 +5,7 @@ I build practical AI tools around retrieval, search, local LLMs, and production 
 Currently working on:
 
 - **TinySearch:** lightweight web research for MCP agents
+- **TinyContext**: token-light memory for local LLMs and agents
 - **Query Autocomplete:** local typeahead/autocomplete for RAG and chat apps
 - RAG, document intelligence, and local-first AI tooling
 
