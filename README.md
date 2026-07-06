@@ -1,4 +1,4 @@
-# Hey, I’m Marc 👋
+# Hey! 👋
 
 I build practical AI tools around retrieval, search, local LLMs, and production GenAI systems.
 
