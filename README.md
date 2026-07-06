@@ -7,7 +7,6 @@ Current OSS projects:
 - **TinySearch:** lightweight web research for MCP agents
 - **TinyContext**: token-light memory for local LLMs and agents
 - **Query Autocomplete:** local typeahead/autocomplete for RAG and chat apps
-- RAG, document intelligence, and local-first AI tooling
 
 I’m especially interested in local-first AI, smaller-model workflows, better retrieval, and reducing the amount of context we waste just to get useful answers.
 
