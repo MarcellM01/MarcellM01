@@ -2,14 +2,16 @@
 
 I build practical AI tools around retrieval, search, local LLMs, and production GenAI systems.
 
-Currently working on:
+Current OSS projects:
 
 - **TinySearch:** lightweight web research for MCP agents
 - **TinyContext**: token-light memory for local LLMs and agents
 - **Query Autocomplete:** local typeahead/autocomplete for RAG and chat apps
 - RAG, document intelligence, and local-first AI tooling
 
-I care about tools that reduce context waste, improve retrieval quality, and make smaller models more useful without adding a ton of overhead.
+I’m especially interested in local-first AI, smaller-model workflows, better retrieval, and reducing the amount of context we waste just to get useful answers.
 
-**Want to test, collaborate, or suggest something?**  
-[Email me](mailto:hello.marcbuilds@gmail.com) · [X](https://x.com/marcbuilds01) · [Medium](https://medium.com/@marcbuilds)
+Most of what I build is practical infrastructure: small tools that do one thing well, are easy to run, and can be used by other developers without a heavy platform around them.
+
+**Want to test, contribute, or suggest an idea?**  
+[Email me](mailto:hello.marcbuilds@gmail.com) · [Medium](https://medium.com/@marcbuilds)
