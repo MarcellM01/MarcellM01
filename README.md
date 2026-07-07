@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I build practical AI tools around retrieval, search, local LLMs, and production GenAI systems.
+I build practical open-source AI infrastructure around retrieval, search, local LLMs, and agent workflows.
 
 Current OSS projects:
 
