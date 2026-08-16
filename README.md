@@ -4,7 +4,7 @@ I build practical open-source AI infrastructure around retrieval, search, local 
 
 Currently maintaining the following OSS projects:
 
-- **TinySearch:** lightweight web research for MCP agents
+- **TinySearch:** lightweight web research for local LLMs and agents
 - **TinyContext**: token-light memory for local LLMs and agents
 
 I’m especially interested in local-first AI, smaller-model workflows, better retrieval, and reducing the amount of context we waste just to get useful answers.
